@@ -1,4 +1,16 @@
-# cse210-ww-student-template
-This is the starter code for students in the worldwide content version of CSE 210.
+Gustavo da Silva Pereira
 
-This repository contains the starter code for many different projects. They are arranged folders by week. There is also an an empty sandbox project that can be used to play around with any concept you would like.
+# Added the repository to machine
+https://github.com/silvagustta/cse210-hw
+
+# changed "sandbox" to "Hello World!" only
+Console.WriteLine("Hello World!");
+
+# learned the git commands
+Git push
+Git pull
+Git status
+Git commit
+
+# used 'git commit' and 'git push'
+git commit -m "Changed program to 'Hello World!'"
